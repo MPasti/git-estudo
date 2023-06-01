@@ -1,3 +1,2 @@
-console.log(`Hello world`);
-console.log(``);
-console.log(`mudanças`);
+console.log(`Hello world`)
+console.log(``)
