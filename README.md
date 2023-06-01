@@ -4,5 +4,5 @@
 > Projeto em desenvolvimento
 Para rodar o projeto:
 ```
-npm install react
+node app.js
 ```
